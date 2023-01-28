@@ -1,0 +1,62 @@
+.d-flex{
+    position: relative;
+    left: 500px;
+}
+h1{
+    position: relative;
+    left: 10px;
+    top: 230px;
+}
+.lakshadweep{
+    color: #3282AD;
+}
+.btn1{
+    color: black;
+    position: relative;
+    left: 100px;
+    top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: #D2F4FF;
+    background-color: #D2F4FF;
+}
+
+.lakshadweep_main{
+    left: 100px;
+    top: 250px;
+    padding-left: 90px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn2{
+    color:#3282AD;
+    position: relative;
+    left: 100px;
+    top: 250px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #3282AD;
+    background-color: #D2F4FF;
+    border-radius: 5px;
+}
+.rounded-pill1{
+    position: relative;
+    left:70px;
+    top: 200px;
+}
+.btn-primary{
+    border-radius: 44px;;
+}
+.illustration{
+    position: relative;
+    left: 120px;
+    top: 120px;
+    opacity: 50;
+}
+
